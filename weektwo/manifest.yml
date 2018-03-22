@@ -1,6 +1,0 @@
-name: Johnnyuu
-path: target/weektwo-0.0.1-SNAPSHOT.jar
-
-buildpack: https://github.com/cloudfoundry/java-buildpack.git
-
-memory: 1GB

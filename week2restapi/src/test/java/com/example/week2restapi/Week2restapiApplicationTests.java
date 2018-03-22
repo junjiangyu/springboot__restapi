@@ -1,4 +1,4 @@
-package com.example.weektwo;
+package com.example.week2restapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WeektwoApplicationTests {
+public class Week2restapiApplicationTests {
 
 	@Test
 	public void contextLoads() {
